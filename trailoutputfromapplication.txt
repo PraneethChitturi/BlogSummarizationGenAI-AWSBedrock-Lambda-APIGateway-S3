@@ -1,0 +1,37 @@
+ <s> [INST]Human: What is the main difference between Machine Learning and Generative AI?
+                Assistant:[/INST]
+             <s> [INST]Human: Can you give me an example of Generative AI in action?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential applications of Generative AI?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential risks and challenges associated with Generative AI?
+                Assistant:[/INST]
+             <s> [INST]Human: Can you give me an example of Machine Learning in action?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential applications of Machine Learning?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential risks and challenges associated with Machine Learning?
+                Assistant:[/INST]
+             <s> [INST]Human: Can you write a 200 words blog on the topic Machine Learning And Generative AI
+                Assistant:[/INST]
+             <s> [INST]Human: Write a 200 words blog on the topic Machine Learning And Generative AI
+                Assistant:[/INST]
+             <s> [INST]Human: What is the main difference between Machine Learning and Generative AI?
+                Assistant:[/INST]
+             <s> [INST]Human: Can you give me an example of Generative AI in action?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential applications of Generative AI?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential risks and challenges associated with Generative AI?
+                Assistant:[/INST]
+             <s> [INST]Human: Can you give me an example of Machine Learning in action?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential applications of Machine Learning?
+                Assistant:[/INST]
+             <s> [INST]Human: What are the potential risks and challenges associated with Machine Learning?
+                Assistant:[/INST]
+             <s> [INST]Human: Can you write a 200 words blog on the topic Machine Learning And Generative AI
+                Assistant:[/INST]
+             <s> [INST]Human: Write a 200 words blog on the topic Machine Learning And Generative AI
+                Assistant:[/INST]
+             <s> [INST]Human: What is
